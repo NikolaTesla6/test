@@ -12,4 +12,4 @@ hello NikolaTesla! hello git!
 hello NikolaTesla! hello git!
 hello NikolaTesla! hello git! master test
 hello NikolaTesla! hello git!
-hello NikolaTesla! hello git!
+hello NikolaTesla! hello git! hot-fix test
